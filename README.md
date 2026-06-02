@@ -33,7 +33,3 @@ Practice fundamentals of programming logic.
 - Conditional Statements
 - Switch-Case Structures
 - Logical Operators
-
-## 👨‍💻 Author
-
-Renan Lacroce
