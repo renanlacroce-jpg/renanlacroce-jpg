@@ -18,11 +18,11 @@ Practice fundamentals of programming logic.
 | File | Description |
 |--------|--------|
 | student-average.alg | Show the student's average grade and performance |
-| loan-simulator.alg | Calculates loan installments and interest |
-| football-match-analyzer.alg | Analyzes the result of a football match |
-| number-of-people.alg | Counts and analyzes people data |
-| school-wild-boar-tired.alg | Visualg exercise from the course |
-| switch-case-exercise.alg | Exercise using switch-case structures |
+| loan-simulator.alg | Simulate a loan and interest |
+| football-match-analyzer.alg | Analyzes the results of football matches |
+| number-of-people.alg | Count the number of people and analyze theirs characteristics |
+| school-wild-boar-tired.alg | Analyze the student's average grade and performance |
+| 1A10-10a1.alg | Practice menus and switch-case statements |
 
 ## 📈 Skills Practiced
 
