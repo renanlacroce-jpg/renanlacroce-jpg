@@ -8,7 +8,7 @@ This repository contains some exercises made in Visualg. I studied programming l
 
 Practice fundamentals of programming logic.
 
-## 🛠 Technologies
+## 👨‍💻 Technologies
 
 - Visualg
 - Programming Logic
@@ -23,6 +23,7 @@ Practice fundamentals of programming logic.
 | number-of-people.alg | Count the number of people and analyze theirs characteristics |
 | school-wild-boar-tired.alg | Analyze the student's average grade and performance |
 | 1A10-10a1.alg | Practice menus and switch-case statements |
+| FibonacciProcedure | In this exercise, my goal was to write a program using a procedure |  
 
 ## 📈 Skills Practiced
 
