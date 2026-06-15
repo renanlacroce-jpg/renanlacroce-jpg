@@ -34,5 +34,5 @@ Practice fundamentals of programming logic.
 - Arithmetic Operations
 - Conditional Statements
 - Switch-Case Structures
-- Routines Structures
+- Routine Structure
 - Logical Operators
