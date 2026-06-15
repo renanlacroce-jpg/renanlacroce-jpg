@@ -25,6 +25,7 @@ Practice fundamentals of programming logic.
 | 1A10-10a1.alg | Practice menus and switch-case statements |
 | FibonacciProcedure | In this exercise, my goal was to write a program using a procedure |
 | EvenOrOdd | I wrote this program to practice functions |
+| ResultBMI | This program is to show your BMI and also to study Functions |
 
 ## 📈 Skills Practiced
 
