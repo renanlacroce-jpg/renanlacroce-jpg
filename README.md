@@ -1,6 +1,6 @@
 ## Renan
 
-# 📚 Programming Logic Exercises
+# 🧠 Programming Logic Exercises
 
 This repository contains some exercises made in Visualg. I studied programming logic to make the transition to JavaScript, TypeScript, React, and other technologies easier.
 
