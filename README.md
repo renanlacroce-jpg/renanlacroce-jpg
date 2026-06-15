@@ -26,7 +26,7 @@ Practice fundamentals of programming logic.
 | FibonacciProcedure | In this exercise, my goal was to write a program using a procedure |
 | EvenOrOdd | I wrote this program to practice functions |
 | ResultBMI | This program is to show your BMI and also to study Functions |
-|STUDENTS-OF-THE-CLASS | Store the student's names and grandes |
+|STUDENTS-OF-THE-CLASS | Store the student's names and grades |
 
 ## 📈 Skills Practiced
 
