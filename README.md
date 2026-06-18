@@ -27,6 +27,7 @@ Practice fundamentals of programming logic.
 | EvenOrOdd | I wrote this program to practice functions |
 | ResultBMI | This program is to show your BMI and also to study Functions |
 |STUDENTS-OF-THE-CLASS | Store the student's names and grades |
+| NAMESELECTION | Name selection using arrays, maiusc, copia, and other functions |
 
 ## 📈 Skills Practiced
 
