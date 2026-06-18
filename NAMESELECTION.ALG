@@ -1,0 +1,22 @@
+algoritmo "NameSelection"
+var
+   total, cont: inteiro
+   name: caractere
+   soM: vetor[1..5] de caractere
+inicio
+   total <- 0
+   Para cont <- 1 ate 5 faca
+      Escreva("Enter the name: ")
+      Leia(name)
+      Se (copia(maiusc(name), 1, 1) = "M") entao
+         total <- total + 1
+         soM[total] <- name
+      FimSe
+   FimPara
+   
+   LimpaTela
+   EscrevaL("List of name starting with M")
+   Para cont <- 1 ate total faca
+      EscrevaL(soM[cont])
+   FimPara
+fimalgoritmo
