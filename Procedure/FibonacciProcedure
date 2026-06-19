@@ -1,0 +1,26 @@
+algoritmo "FibonacciProcedure"
+var
+   Fibo1, Fibo2, Fibo3, C: Inteiro
+   
+Procedimento NumFibonacci(var Nacci1, Nacci2: Inteiro)
+Var
+   Nacci3: Inteiro
+Inicio
+      Nacci3 <- Nacci1 + Nacci2
+      Nacci1 <- Nacci2
+      Nacci2 <- Nacci3
+FimProcedimento
+
+inicio
+   Fibo1 <- 0
+   EscrevaL(Fibo1)
+   Fibo2 <- 1
+   EscrevaL(Fibo2)
+   Para C <- 3 ate 12 faca
+      NumFibonacci(Fibo1, Fibo2)
+      Fibo3 <- Fibo1 + Fibo2
+      EscrevaL (Fibo3)
+      
+   FimPara
+
+fimalgoritmo
