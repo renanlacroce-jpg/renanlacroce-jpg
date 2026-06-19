@@ -28,6 +28,7 @@ Practice fundamentals of programming logic.
 | ResultBMI | This program is to show your BMI and also to study Functions |
 |STUDENTS-OF-THE-CLASS | Store the student's names and grades |
 | NAMESELECTION | Name selection using arrays, maiusc, copia, and other functions |
+| OrganizeTheNumbers| Organize the numbers from smaller to largest |
 
 ## 📈 Skills Practiced
 
