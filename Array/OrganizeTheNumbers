@@ -1,0 +1,25 @@
+algoritmo "OrganizeTheNumbers"
+var
+   veto: vetor[1..4] de inteiro
+   cont1, cont2, aux: inteiro
+inicio
+
+   Para cont1 <- 1 ate 4 faca
+      Escreva("Type the first number: ")
+      Leia(veto[cont1])
+   FimPara
+   
+   Para cont1 <- 1 ate 3 faca
+      Para cont2 <- cont1+1 ate 4 faca
+         Se  (veto[cont1] > veto[cont2]) entao
+            aux <- veto[cont1]
+            veto[cont1] <- veto[cont2]
+            veto[cont2] <- aux
+         FimSe
+      FimPara
+   FimPara
+   
+   Para cont1 <- 1 ate 4 faca
+      Escreva("{",veto[cont1],"}")
+   FimPara
+fimalgoritmo
