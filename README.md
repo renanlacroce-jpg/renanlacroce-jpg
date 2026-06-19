@@ -25,7 +25,7 @@ Practice fundamentals of programming logic.
 | NAMESELECTION | Name selection using arrays, maiusc, copia, and other functions |
 | OrganizeTheNumbers| Organize the numbers from smaller to largest |
 
-## 📈 Skills Practiced
+## Skills Practiced
 
 - Variables
 - Data Types
