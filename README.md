@@ -36,8 +36,8 @@ Practice fundamentals of programming logic.
 - Routine Structure
 - Logical Operators
 
-- ## Language
+ ## Language
 - Visualg (Portugol)
 
-- ## Level
-- - Beginner > Intermediate Logic
+ ## Level
+ - Beginner > Intermediate Logic
