@@ -1,19 +1,14 @@
 ## Renan
 
-# 🧠 Programming Logic Exercises
+# Programming Logic Exercises
 
 This repository contains some exercises made in Visualg. I studied programming logic to make the transition to JavaScript, TypeScript, React, and other technologies easier.
 
-## 🎯 Goal
+##  Goal
 
 Practice fundamentals of programming logic.
 
-## 👨‍💻 Technologies
-
-- Visualg
-- Programming Logic
-
-## 📂 Exercises
+## Exercises
 
 | File | Description |
 |--------|--------|
@@ -40,3 +35,9 @@ Practice fundamentals of programming logic.
 - Switch-Case Structures
 - Routine Structure
 - Logical Operators
+
+- ## Language
+- Visualg (Portugol)
+
+- ## Level
+- - Beginner > Intermediate Logic
