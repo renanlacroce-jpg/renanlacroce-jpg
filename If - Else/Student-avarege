@@ -1,3 +1,5 @@
+//This is the first program that I have created using if-else statements. For me, it was a challenge to create a program using several if-else statements. But it was easy to get used to it.
+// The program show the student's grade and their performance.
 algoritmo "Student-average"
 var
    P1, P2, average: Real
