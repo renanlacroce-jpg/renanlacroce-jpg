@@ -1,3 +1,5 @@
+//I have already created a code that shhows Fibonacci numbers. But this time it uses a procedure.
+
 algoritmo "FibonacciProcedure"
 var
    Fibo1, Fibo2, Fibo3, C: Inteiro
