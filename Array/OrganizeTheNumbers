@@ -1,3 +1,6 @@
+//This is my first program using arrays. My goal was to learn and understand the concept of arrays.
+//The program sorts the numbers from smallest to largest.
+
 algoritmo "OrganizeTheNumbers"
 var
    veto: vetor[1..4] de inteiro
