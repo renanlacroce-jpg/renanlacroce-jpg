@@ -1,3 +1,5 @@
+//This is another program that challenged me. This was the time when I was trying to understand switch-case statements. When I understood, I noticed that it was easy.
+
 algoritmo "NumberOfPeople"
 var
    gender, wish: caractere
