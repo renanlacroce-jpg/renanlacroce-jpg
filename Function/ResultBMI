@@ -1,3 +1,5 @@
+//this is the second program that I have created that show your BMI. But this time, it using functions.
+
 algoritmo "ResultBMI"
 var
    weight, height, BMI: Real
