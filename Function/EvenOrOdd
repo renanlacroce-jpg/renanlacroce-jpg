@@ -1,3 +1,6 @@
+//This was one of my first programs using Functions. After studying procedures, understandying functions became much easier.
+//The goal of this program is to show if the number is even or odd.
+
 algoritmo "ParOuImpar"
 var
    N: Inteiro
