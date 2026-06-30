@@ -9,6 +9,8 @@ var
    spot: inteiro
    ParkingSpot: vetor[1..10] de Caractere
    Answer: Caractere
+
+//----------------------------------------------------------
    
    Procedimento ParkingSpots()
    var
@@ -35,7 +37,8 @@ var
       EscrevaL("")
       EscrevaL("---------------------------------------")
    FimProcedimento
-         
+
+//----------------------------------------------------------         
 
 inicio
    Repita
